@@ -11,7 +11,7 @@ import rich.box as box
 from rich.table import Table
 from rich.layout import Layout
 from time import strftime, localtime   
-
+vtmnc Rodrigo 
 class Celular():
     def __init__(self) -> None:
         self.link = "https://lolkkk-55eec-default-rtdb.firebaseio.com/Computadores"
