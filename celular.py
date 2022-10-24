@@ -14,8 +14,8 @@ from time import strftime, localtime
 vtmnc Rodrigo 
 class Celular():
     def __init__(self) -> None:
-        self.link = "https://lolkkk-55eec-default-rtdb.firebaseio.com/Computadores"
-        self.original_link = "https://lolkkk-55eec-default-rtdb.firebaseio.com"
+        self.link = "k"
+        self.original_link = "k"
         self.escolha = None
         self.user = None
         self.command_escolha = None
